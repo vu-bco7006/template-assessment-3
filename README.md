@@ -6,7 +6,7 @@ The data provided are the sales records of a retail business in February 2021. T
 - ``orders.csv``: Order information including customer names and shipping addresses in the duration
 - ``order_details.csv``: The details of orders
 
-Examine the datasets to understand what data you have and what their information they have. Then, write Python programs to find out the facts required by the management as listed below. 
+Examine the datasets to understand what data you have. Then, write Python programs to find out the facts required by the management as listed below.
 
 ## Questions
 1. Based on the freights spent on these orders, please estimate the budget of monthly freights for this business.
