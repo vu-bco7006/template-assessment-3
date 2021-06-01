@@ -17,4 +17,4 @@ Examine the datasets to understand what data you have. Then, write Python progra
 ## Requirements
 1. (For Q4) You need to match the product category ID to its name using a program. Merely reporting the product category ID is not acceptable.
 1. The facts should be outputted to the screen in a format of your discretion, however it should be clear and understandable. 
-1. Organise your code logically in multiple code files so that other business analysts can understand your code.
+1. Organise your code logically in functions and/or multiple code files so that other business analysts can understand your code.
